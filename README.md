@@ -66,3 +66,5 @@ source $ZSH/oh-my-zsh.sh
 ```
 
 ## Linux
+
+ - [Linux Commands](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
